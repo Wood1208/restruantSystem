@@ -1,0 +1,7 @@
+1 圣诞饼干 5.0 Img/dishes/圣诞饼干.jpg
+2 巧克力蛋糕 15.0 Img\dishes\巧克力蛋糕.jpg
+3 浆果冰淇淋 8.0 Img\dishes\浆果冰淇淋.jpg
+4 巧克力层糕 8.0 Img\dishes\巧克力层糕.jpg
+5 包子点心 6.0 Img\dishes\包子点心.jpg
+6 水果拼盘 7.0 Img\dishes\水果拼盘.jpg
+7 测试 9.9 Img/Pikachu.png
